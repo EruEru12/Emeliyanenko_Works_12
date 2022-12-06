@@ -1,0 +1,15 @@
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\bin\Debug\net6.0\EmeliyanenkoWorks_12.exe
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\bin\Debug\net6.0\EmeliyanenkoWorks_12.deps.json
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\bin\Debug\net6.0\EmeliyanenkoWorks_12.runtimeconfig.json
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\bin\Debug\net6.0\EmeliyanenkoWorks_12.dll
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\bin\Debug\net6.0\EmeliyanenkoWorks_12.pdb
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.csproj.AssemblyReference.cache
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.AssemblyInfoInputs.cache
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.AssemblyInfo.cs
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.csproj.CoreCompileInputs.cache
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.dll
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\refint\EmeliyanenkoWorks_12.dll
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.pdb
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\EmeliyanenkoWorks_12.genruntimeconfig.cache
+C:\Users\lehac\source\repos\EmeliyanenkoWorks_12\EmeliyanenkoWorks_12\obj\Debug\net6.0\ref\EmeliyanenkoWorks_12.dll
